@@ -23,7 +23,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 30,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/_1",
+    "favicon": "@PROJECT_PATH@/assets/images/v11-128x38.png",
     "noImageResize": ""
   },
   "pages": {
